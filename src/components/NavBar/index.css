@@ -1,0 +1,35 @@
+/* Write your code here. */
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ffffff33;
+
+  align-items: center;
+  padding: 20px;
+}
+.logo-name {
+  display: flex;
+}
+.score-top-score {
+  display: flex;
+}
+.emoji-game {
+  font-family: 'Roboto';
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.score {
+  font-family: 'Roboto';
+  color: white;
+  font-size: 18px;
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.logo {
+  width: 60px;
+  height: 60px;
+}
